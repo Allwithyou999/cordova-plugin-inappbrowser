@@ -81,6 +81,8 @@
     NSString* _prevUserAgent;
     NSInteger _userAgentLockToken;
     CDVInAppBrowserOptions *_browserOptions;
+    float iPhoneXHomeIndicator;
+    float TOOLBAR_HEIGHT;
 
 #ifdef __CORDOVA_4_0_0
     CDVUIWebViewDelegate* _webViewDelegate;

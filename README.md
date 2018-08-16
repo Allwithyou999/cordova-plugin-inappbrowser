@@ -1,6 +1,7 @@
 ---
 title: Inappbrowser
 description: Open an in-app browser window.
+Author: Chentao W.
 ---
 <!--
 # license: Licensed to the Apache Software Foundation (ASF) under one
